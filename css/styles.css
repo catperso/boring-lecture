@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+}
+
+h2.intro {
+  text-align: center;
+  font-family: serif;
+  font-style: italic;
+  color: brown;
+}
+
+p.intro {
+  font-size: 20px;
+  font-family: serif;
+}
+
+img.intro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  width: 50%;
+}
